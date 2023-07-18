@@ -1,0 +1,106 @@
+footer#colophon {
+	background: #111;
+	width: 1340px;
+	margin-left: -90px;
+}
+a.footer-link:hover{
+		text-decoration:underline;
+}
+.tutor-login-wrap {
+	max-width: 520px;
+	margin: 50px auto;
+	padding: 50px 55px;
+	-webkit-box-shadow: 0 0 15px rgba(0,0,0,0.1);
+	box-shadow: 0 0 15px rgba(0,0,0,0.1);
+	border-radius: 5px;
+}.site-content {
+	padding: 60px 15px 100px;
+}
+.site-content {
+	padding: 0 !important;
+}
+/* Responsive 1200px */
+@media (max-width: 1200px) {
+		footer#colophon {
+	background: #111;
+	width: 1240px;
+	margin-left: -90px;
+}
+	
+		
+}
+/* Responsive 1025px */
+@media (max-width: 1024px){
+			.elementor-text-editor.elementor-clearfix {
+	text-align: left !important;
+	width:470px;
+					float:right;
+					margin-top:-40px
+}
+}
+
+/* Responsive 1005px */
+@media (max-width: 1005px){
+			.elementor-text-editor.elementor-clearfix {
+	text-align: left !important;
+	width:470px;
+					float:right;
+					margin-top:-40px
+}
+}
+/* Responsive 993px */
+@media (max-width: 993px){
+			.elementor-text-editor.elementor-clearfix {
+	text-align: center !important;
+	width:400px;
+	margin:auto;
+					float:none;
+}
+		.elementor-9178 .elementor-element.elementor-element-44a05e77.elementor-widget-heading .elementor-heading-title {
+	text-align: center;
+}
+}
+
+/* Responsive 800px */
+@media (max-width: 800px){
+			.elementor-text-editor.elementor-clearfix {
+	text-align: left !important;
+	width:500px;
+	float:left;
+					margin-left:49px;
+}
+		.elementor-9178 .elementor-element.elementor-element-44a05e77.elementor-widget-heading .elementor-heading-title {
+	text-align: left;
+}
+}
+
+/* Responsive 620px */
+@media (max-width: 620px){
+		.elementor-text-editor.elementor-clearfix {
+	text-align: left !important;
+	width: 450px;
+	float: left;
+			margin-left:0 !important;
+}
+		.elementor-9178 .elementor-element.elementor-element-44a05e77.elementor-widget-heading .elementor-heading-title {
+	text-align: left;
+	margin-left: -55px;
+}
+}
+
+/* Responsive 525px */
+@media (max-width: 525px){
+		.elementor-text-editor.elementor-clearfix {
+	text-align: center !important;
+	width: 300px;
+	
+}
+		.elementor-9178 .elementor-element.elementor-element-44a05e77.elementor-widget-heading .elementor-heading-title {
+	text-align: center;
+	width: 300px;
+}
+}
+
+
+
+
